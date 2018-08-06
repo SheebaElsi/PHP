@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+    </head>
+    <body>
+       <b>Welcome</b> <?php echo $_POST["name"]; ?><br>
+<b>Your email address is:</b> <?php echo $_POST["email"]; ?><br>
+
+    </body>
+</html>
