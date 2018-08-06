@@ -1,0 +1,30 @@
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <h1>Welcome to Elsi's Page</h1>
+		<h3>The data entered here is stored in MYSQL Database</h3>
+
+<form action="elsi.php" method="post">
+
+Firstname: <input type="text" name="fname" /><br><br>
+
+Lastname: <input type="text" name="lname" /><br><br>
+
+<input type="submit" />
+
+</form>
+
+
+        <?php
+        // put your code here
+        ?>
+    </body>
+</html>
+
+
+
+
